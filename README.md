@@ -1,8 +1,16 @@
+> # **:warning: Advertencia!**
+> ### Se debe tener en cuenta este README antes de ejecutar el API. Considera darle un vistazo.
+
+
 # API-Email
 
 Esta API fue hecha Express.js un framework para Node.js utilizado para construir aplicaciones web y APIs de manera rápida y sencilla. Es uno de los frameworks más populares en la comunidad de Node.js debido a su simplicidad, flexibilidad y gran cantidad de características que ofrece.
 
 Tambien se uso Nodemon una herramienta que ayuda a los desarrolladores a aumentar su productividad en el desarrollo de aplicaciones Node.js al monitorear los cambios en el código fuente y automáticamente reiniciar la aplicación en tiempo real.
+
+A parte se implemento los CORS (Cross-Origin Resource Sharing) un mecanismo de seguridad utilizado por los navegadores web para controlar las solicitudes HTTP realizadas por scripts que se ejecutan en una página web en un origen diferente al del recurso solicitado. Esto es importante para prevenir ataques malintencionados que puedan comprometer la seguridad de los datos del usuario.
+
+Ya por ultimo se implemento Body Parser esencial para analizar y acceder a los datos de la solicitud entrante en la ruta de Express.js.
 
 ## Instalcion de Express
 
@@ -39,3 +47,23 @@ Si usas una macbook es posible que necesites usar el siguiente comando para inst
 sudo npm i -g nodemon
 
 ```
+
+## Instalacion de los CORS
+
+Para la seguridad es importante implementar este mecanismo de seguridad, para eso nececitamos instalar este middleware de Express.js. Aqui el comando para hacerlo.
+
+```
+npm i cors
+
+```
+
+## Instalacion de Body Parser
+
+Para analizar y acceder a los datos de la solicitud entrante en la ruta de Express.js es necesario instalar este middleware. Aqui el comando para hacerlo.
+
+```
+npm i body-parser
+
+```
+
+
