@@ -2,7 +2,7 @@
 > ### Se debe tener en cuenta este README antes de ejecutar el API. Considera darle un vistazo.
 
 
-# API-Email
+# API Utilizada para enviar email's en tiempo real
 
 Esta API fue hecha Express.js un framework para Node.js utilizado para construir aplicaciones web y APIs de manera rápida y sencilla. Es uno de los frameworks más populares en la comunidad de Node.js debido a su simplicidad, flexibilidad y gran cantidad de características que ofrece.
 
