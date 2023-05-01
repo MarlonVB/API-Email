@@ -2,7 +2,7 @@
 
 Esta API fue hecha Express.js un framework para Node.js utilizado para construir aplicaciones web y APIs de manera rápida y sencilla. Es uno de los frameworks más populares en la comunidad de Node.js debido a su simplicidad, flexibilidad y gran cantidad de características que ofrece.
 
-Tambien se uso Nodemon es una herramienta que ayuda a los desarrolladores a aumentar su productividad en el desarrollo de aplicaciones Node.js al monitorear los cambios en el código fuente y automáticamente reiniciar la aplicación en tiempo real.
+Tambien se uso Nodemon una herramienta que ayuda a los desarrolladores a aumentar su productividad en el desarrollo de aplicaciones Node.js al monitorear los cambios en el código fuente y automáticamente reiniciar la aplicación en tiempo real.
 
 ## Instalcion de Express
 
