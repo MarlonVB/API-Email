@@ -68,7 +68,7 @@ npm i body-parser
 
 # Comando para ejecutar el API
 
-Puedes ejecutar el API puedes hacerlo con el siguiente comando.
+Para ejecutar el API puedes hacerlo con el siguiente comando.
 
 ```
 nodemon index.js
