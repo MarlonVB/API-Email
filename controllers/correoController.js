@@ -9,7 +9,7 @@ const envioCorreo = (req = request, resp = response) =>{
         post: 587,
         auth:{
             user:'correo.prueba.ista123@gmail.com',
-            pass:'gwzashbeuqlnucye'
+            pass:'moyfxomlbmxjjbom'
         }
     });
 
