@@ -4,6 +4,7 @@ const nodeMailer = require('nodemailer');
 const envioCorreo = (req = request, resp = response) =>{
     let body = req.body;
 
+    // Para la contraseña se debe tener en cuenta las configuraciones de seguridad de la cuenta google que se este usando
     let config = nodeMailer.createTransport({
         host: 'smtp.gmail.com',
         post: 587,
